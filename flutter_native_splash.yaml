@@ -1,0 +1,3 @@
+flutter_native_splash:
+  image: assets/sp-image.png
+  color: "#ffffff" # Replace this with the background color you want for the splash screen
